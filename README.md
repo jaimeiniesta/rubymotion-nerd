@@ -5,3 +5,7 @@ I'm following an excellent book about iOS development,
 and this repo contains the same examples covered, implemented in RubyMotion.
 
 You can [download the original exercises for Xcode / Objective-C](http://www.bignerdranch.com/solutions/iOSProgramming3ed.zip) from the BNR site.
+
+## Similar projects
+
+* [RubyMotion cookbook](https://github.com/IconoclastLabs/rubymotion_cookbook)
