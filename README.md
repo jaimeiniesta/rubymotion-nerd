@@ -8,4 +8,5 @@ You can [download the original exercises for Xcode / Objective-C](http://www.big
 
 ## Similar projects
 
-* [RubyMotion cookbook](https://github.com/IconoclastLabs/rubymotion_cookbook)
+* [Jim Weirich's bnr-ios-rubymotion](https://github.com/jimweirich/bnr-ios-rubymotion)
+* [Iconoclast Labs' RubyMotion cookbook](https://github.com/IconoclastLabs/rubymotion_cookbook)

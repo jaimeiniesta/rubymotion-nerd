@@ -20,4 +20,6 @@ class Item
 
     Item.new(name, rand(100), serial)
   end
+  
+  NS
 end
